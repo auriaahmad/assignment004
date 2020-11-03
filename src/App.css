@@ -1,3 +1,10 @@
+.box{
+  height: 500px;
+  background-color: lightgrey;
+}
+.dayLight{
+  background-color: yellow;
+}
 .App {
   text-align: center;
 }
